@@ -1,0 +1,14 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Operator Mono Lig,Consolas, 'Courier New', monospace",
+  "files.autoGuessEncoding": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.colorTheme": "Snazzy Operator",
+  "workbench.preferredHighContrastColorTheme": "Snazzy Operator",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.statusBar.visible": false,
+  "editor.fontLigatures": true
+}
